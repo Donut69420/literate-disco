@@ -1,0 +1,13 @@
+body { padding: 20px;
+       margin:20 px ;
+    font-family: sans-serif;
+}
+header {color: white;
+    background-color: blue;}
+h1 {font-size: 30px;
+    color: purple;}
+footer p {background-color: green;}
+nav a{color: grey;
+      text-decoration: none;
+      }
+.f {background-color: lightblue;}
